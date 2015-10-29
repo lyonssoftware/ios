@@ -12,3 +12,4 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 9. TextView
 10. AutoLayout
 11. SwitchView
+12. ProgressView
