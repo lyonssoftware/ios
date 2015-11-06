@@ -5,15 +5,16 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 2. HelloWorld
 3. Views
 4. ViewController
-5. DataType
-6. UILabel
-7. UISlider
-8. UIButton
-9. TextView
-10. AutoLayout
-11. SwitchView
-12. ProgressView
-13. TextFields
-14. TabBar
-15. JSON Parsing
-16. XML Parsing
+5. TableView
+6. DataType
+7. UILabel
+8. UISlider
+9. UIButton
+10. TextView
+11. AutoLayout
+12. SwitchView
+13. ProgressView
+14. TextFields
+15. TabBar
+16. JSON Parsing
+17. XML Parsing
