@@ -13,11 +13,12 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 10. TextView
 11. AutoLayout
 12. SwitchView
-13. ProgressView
-14. TextFields
-15. TabBar
-16. JSON Parsing
-17. XML Parsing
-18. Detailed Table View
-19. Switch Views
-20. SubViews
+13. SegueView
+14. ProgressView
+15. TextFields
+16. TabBar
+17. JSON Parsing
+18. XML Parsing
+19. Detailed Table View
+20. Switch Views
+21. SubViews
