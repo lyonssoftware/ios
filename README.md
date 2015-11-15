@@ -3,7 +3,7 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 ## Projects
 1. Getting started
 2. HelloWorld
-3. Views
+3. Simple Button
 4. ViewController
 5. TableView
 6. DataType
