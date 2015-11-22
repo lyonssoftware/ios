@@ -22,3 +22,4 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 19. Detailed Table View
 20. Switch Views
 21. MapView 
+22. GoogleMap
