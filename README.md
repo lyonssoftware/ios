@@ -20,7 +20,6 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 17. TabBar
 18. JSON Parsing
 19. XML Parsing
-20. Detailed Table View
 
 
 
