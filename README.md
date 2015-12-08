@@ -19,7 +19,7 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 16. TextFields
 17. TabBar
 18. JSON Parsing
-19. XML Parsing
+
 
 
 
