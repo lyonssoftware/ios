@@ -16,7 +16,6 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 13. SegueView
 14. Segue + Data
 15. ProgressView
-16. TextFields
 
 
 
