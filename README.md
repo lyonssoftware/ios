@@ -14,7 +14,6 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 11. AutoLayout
 12. SwitchView
 13. SegueView
-14. Segue + Data
 
 
 
