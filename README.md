@@ -12,7 +12,7 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 9. UIButton
 10. TextView
 11. AutoLayout
-12. SwitchView
+
 
 
 
