@@ -10,7 +10,6 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 7. UILabel
 8. UISlider
 9. UIButton
-10. TextView
 
 
 
