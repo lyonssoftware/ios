@@ -8,7 +8,7 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 5. TableView
 6. DataType
 7. UILabel
-8. UISlider
+
 
 
 
