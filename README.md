@@ -6,7 +6,6 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 3. Simple Button
 4. ViewController
 5. TableView
-6. DataType
 
 
 
