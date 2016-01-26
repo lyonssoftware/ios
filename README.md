@@ -7,3 +7,4 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 4. UIButton
 5. UIView
 6. UIViewController
+7. CollectionView
