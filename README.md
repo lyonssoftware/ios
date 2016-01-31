@@ -10,3 +10,4 @@ Projects in Objective-C and Swift for iPhone, iPad, and iWatch
 7. CollectionView
 8. UITableView
 9. UINavigationView
+10. Segue
